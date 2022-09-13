@@ -1,0 +1,3 @@
+(library
+ (public_name interval_map)
+ (name interval_map))
